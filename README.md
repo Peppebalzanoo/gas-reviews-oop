@@ -1,5 +1,9 @@
-# Gas Reviews 🔥🇮🇹 
-This project, developed as part of an Object-Oriented Programming course, is a simple desktop application in Java utilizing the Swing library. Inspired by the famous TripAdvisor platform, this software is tailored specifically for Italy. 🇮🇹 🍝🏛️
+# Gas Reviews 🔥 
+This project, developed as part of an Object-Oriented Programming course, is a simple desktop application in Java utilizing the Swing library. Inspired by the famous TripAdvisor platform, this software is tailored specifically for Italy. 🇮🇹🍝🏛️
+
+### Project Brief
+
+The project is designed as an information system, consisting of a relational database and a Java Swing application, to manage a tourism review system similar to TripAdvisor. The system allows the management of three categories: **Restaurants**, **Accommodations**, and **Attractions**. Each of these categories is further refined (e.g., a restaurant can be categorized as either a "Pizzeria" or a "Braceria"). The system enforces a rule that each user can publish at most **one review** per visited establishment. Additionally, reviews must be approved or rejected by a moderator. 
 
 ## Features
 
