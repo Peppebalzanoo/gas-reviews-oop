@@ -1,5 +1,5 @@
 # Gas Reviews 🔥 
-This project, developed as part of an Object-Oriented Programming course, is a simple desktop application in Java utilizing the Swing library. Inspired by the famous TripAdvisor platform, this software is tailored specifically for Italy. 🇮🇹🍝🏛️
+This project, developed as part of an Object-Oriented Programming course, is a simple desktop application in Java utilizing the Swing library. Inspired by the famous TripAdvisor platform, this software is tailored specifically for Italy. 🇮🇹
 
 ### Project Brief
 
